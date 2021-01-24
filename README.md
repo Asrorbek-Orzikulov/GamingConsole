@@ -1,4 +1,4 @@
-# GamingConsole
+# Gaming Console
 
 This project has been written in Python 3. Before running the program be sure to install all the libraries included in the requirements.txt file. (Please ensure the version numbers.)
 
