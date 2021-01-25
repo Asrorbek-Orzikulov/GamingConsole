@@ -2,12 +2,12 @@
 
 This project has been written in Python 3. Before running the program be sure to install all the libraries included in the requirements.txt file. (Please ensure the version numbers.)
 
-# How to run
+## How to run
 First, download the entire repository. Then, run console.py to open the console which contains all the games. 
 
-To Exit out of the Console program use the exit button on the top-right (or top-left) corner of the window.
+To exit out of the Console program, use the exit button on the top-right (or top-left) corner of the window.
 
-# Program structure
+## Program structure
 This gaming console consists of three games: Tic-Tac-Toe, Connect Four and the Fifteen Puzzle. Considering the similarities and differences among games, we decided to structure the project as follows:
 
 • There is a generic board class (board_class.py) that contains methods that are common to all three games. On the board, 0 will denote empty cells, 1 cells chosen by Player #1 and -1 cells chosen by Player #2.
